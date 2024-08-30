@@ -1,0 +1,2 @@
+# Ignore all csv files when pushing to github
+*.csv
