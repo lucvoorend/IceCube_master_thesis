@@ -26,5 +26,11 @@ path to selection files:
 - Inference transform: Softmax
 
 ## Performance
+- Performance only evaluated on the validation set, due to balancing problems with the test set. 
+    - 96.39% accuracy on classifying Neutrinos
+    - 95.90% on Muons
+    - 98.40% on Noise
+- Logit(p) values deviate from results by Frederik
+- Overall comparable results to previous research
 
 
