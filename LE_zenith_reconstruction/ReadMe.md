@@ -26,6 +26,9 @@ path to selection files:
 - early stopping: 5
 
 ## Performance
-
+- Very similar to Results of Frederik
+    - Good overal performance, but errors near the edges (zenith = 0 or pi)
+    - Residuals follow expected distribution
+    - No Z-score analysis has been done (yet)
 
 
